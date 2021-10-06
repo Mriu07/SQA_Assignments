@@ -1,0 +1,17 @@
+C:\Users\RIYA\source\repos\SQA_Assignment_2\SQA_Assignment_2Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\RIYA\source\repos\SQA_Assignment_2\SQA_Assignment_2Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\RIYA\source\repos\SQA_Assignment_2\SQA_Assignment_2Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\RIYA\source\repos\SQA_Assignment_2\SQA_Assignment_2Tests\bin\Debug\SQA_Assignment_2Tests.dll
+C:\Users\RIYA\source\repos\SQA_Assignment_2\SQA_Assignment_2Tests\bin\Debug\SQA_Assignment_2Tests.pdb
+C:\Users\RIYA\source\repos\SQA_Assignment_2\SQA_Assignment_2Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\RIYA\source\repos\SQA_Assignment_2\SQA_Assignment_2Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\RIYA\source\repos\SQA_Assignment_2\SQA_Assignment_2Tests\bin\Debug\SQA_Assignment_2.exe
+C:\Users\RIYA\source\repos\SQA_Assignment_2\SQA_Assignment_2Tests\bin\Debug\SQA_Assignment_2.pdb
+C:\Users\RIYA\source\repos\SQA_Assignment_2\SQA_Assignment_2Tests\bin\Debug\SQA_Assignment_2.exe.config
+C:\Users\RIYA\source\repos\SQA_Assignment_2\SQA_Assignment_2Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\RIYA\source\repos\SQA_Assignment_2\SQA_Assignment_2Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\RIYA\source\repos\SQA_Assignment_2\SQA_Assignment_2Tests\obj\Debug\SQA_Assignment_2Tests.csprojAssemblyReference.cache
+C:\Users\RIYA\source\repos\SQA_Assignment_2\SQA_Assignment_2Tests\obj\Debug\SQA_Assignment_2Tests.csproj.CoreCompileInputs.cache
+C:\Users\RIYA\source\repos\SQA_Assignment_2\SQA_Assignment_2Tests\obj\Debug\SQA_Assignment_2Tests.csproj.CopyComplete
+C:\Users\RIYA\source\repos\SQA_Assignment_2\SQA_Assignment_2Tests\obj\Debug\SQA_Assignment_2Tests.dll
+C:\Users\RIYA\source\repos\SQA_Assignment_2\SQA_Assignment_2Tests\obj\Debug\SQA_Assignment_2Tests.pdb

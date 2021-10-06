@@ -1,0 +1,7 @@
+C:\Users\RIYA\source\repos\SQA_Assignment_2\SQA_Assignment_2\bin\Debug\SQA_Assignment_2.exe.config
+C:\Users\RIYA\source\repos\SQA_Assignment_2\SQA_Assignment_2\bin\Debug\SQA_Assignment_2.exe
+C:\Users\RIYA\source\repos\SQA_Assignment_2\SQA_Assignment_2\bin\Debug\SQA_Assignment_2.pdb
+C:\Users\RIYA\source\repos\SQA_Assignment_2\SQA_Assignment_2\obj\Debug\SQA_Assignment_2.csprojAssemblyReference.cache
+C:\Users\RIYA\source\repos\SQA_Assignment_2\SQA_Assignment_2\obj\Debug\SQA_Assignment_2.csproj.CoreCompileInputs.cache
+C:\Users\RIYA\source\repos\SQA_Assignment_2\SQA_Assignment_2\obj\Debug\SQA_Assignment_2.exe
+C:\Users\RIYA\source\repos\SQA_Assignment_2\SQA_Assignment_2\obj\Debug\SQA_Assignment_2.pdb
