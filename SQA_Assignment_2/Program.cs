@@ -97,5 +97,25 @@ namespace SQA_Assignment_2
             return length;
         }
 
+        int InputRectangleWidth()
+        {
+            int width;
+            bool isContinue = false;
+            string userWidth;
+            do
+            {
+                Console.Write("Enter Rectangle Width: ");
+                userWidth = Console.ReadLine();
+                isContinue = (int.TryParse(userWidth, out width) && (width > 0));
+                if (!isContinue)
+                {
+                    Console.WriteLine("Width must be a positive integer (Greater than zero and ).");
+                }
+            }
+            while (!isContinue);
+
+            return width;
+        }
+
     }
 }
