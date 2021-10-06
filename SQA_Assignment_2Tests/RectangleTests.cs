@@ -63,6 +63,32 @@ namespace SQA_Assignment_2.Tests
 
         }
 
-        
+        [TestMethod()]
+        public void GetRectangleWidthTest()
+        {
+            //Arrange
+            Rectangle rectangle = new Rectangle(2, 2);
+
+            //Act
+            int rectanglePerimeter = rectangle.GetRectanglePerimeter();
+
+            //Assert
+            Assert.AreEqual(8, rectanglePerimeter);
+
+        }
+
+        [TestMethod()]
+        public void SetRectangleWidthTest()
+        {
+            //Arrange
+            Rectangle rectangle = new Rectangle(2, 2);
+
+            //Act
+            int rectangleArea = rectangle.GetRectangleArea();
+
+            //Assert
+            Assert.AreEqual(4, rectangleArea);
+
+        }
     }
 }
